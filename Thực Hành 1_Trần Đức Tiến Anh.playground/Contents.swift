@@ -8,7 +8,7 @@ var d:Int?
 d = 30
 print("d: ",d!) // d! is unwrap to use
 // câu 4
-a = 7000 + d!
+a = 70 + d!
 print("a: ",a)
 // câu 5 Array Sinh vien
 var Sinhvien : [String] = ["tuân","tuần","tuấn","tuận","tuẩn"] // create array
